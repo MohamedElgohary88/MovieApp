@@ -1,5 +1,7 @@
 # 🎥 Movies App
 
+Case study: https://mohamedelgohary.dev/project/movie/
+
 The Movies App is an Android application built using Kotlin and follows the MVVM (Model-View-ViewModel) architectural pattern. It utilizes various libraries and components such as Flow, XML, Room, Retrofit, Dagger Hilt, and modularization. The app provides several features for movie enthusiasts, including user authentication, movie search, trivia game, YouTube trailer playback, movie rating, review viewing, movie filtering, watch history, favorites, and user profile.
 
 ## 🌟 Features
